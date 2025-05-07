@@ -1,11 +1,7 @@
 ![RickoNazmudin](img/github-header-1.png)
 
-I'm a versatile full-stack developer with expertise in multiple programming languages and frameworks. My technical toolkit includes:
-
-- **PHP** - Experienced in building robust server-side applications and CMS integrations
-- **Java** - Proficient in enterprise application development and Android programming
-- **JavaScript** - Strong foundation in both frontend and backend (Node.js) development
-- **React** - Skilled at building modern, responsive user interfaces with React ecosystem
+# 👨‍💻 Ricko Nazmudin
+Versatile full-stack developer with expertise in multiple programming languages and frameworks.
 
 ## 🔧 Technical Skills
 - ![PHP Icon](https://img.icons8.com/color/48/000000/php.png) **PHP**
@@ -17,16 +13,19 @@ I'm a versatile full-stack developer with expertise in multiple programming lang
 - ![React Native Icon](https://img.icons8.com/color/48/000000/react-native.png) **React Native**
 - ![Laravel Icon](https://img.icons8.com/color/48/000000/laravel.png) **Laravel**
 - ![Spring Boot Icon](https://img.icons8.com/color/48/000000/spring-logo.png) **Spring Boot**
-- ![Express.js Icon](https://img.icons8.com/color/48/000000/express.png) **Express.js**  
+- ![Express.js Icon](https://img.icons8.com/color/48/000000/express.png) **Express.js**
 
-#### 🚀 What I'm working on:
+## 🚀 What I'm working on
 - Building scalable web applications with modern JavaScript stacks
 - Developing cross-platform mobile apps with React Native
 - Contributing to open source projects in PHP and Java ecosystems
 
-#### 🌱 Currently learning:
+## 🌱 Currently learning
 - Advanced React patterns and performance optimization
 - Microservices architecture with Java Spring Cloud
 - Serverless computing with AWS Lambda
+
+## 🎮 Play Pacman
+<iframe src="https://pacman.io/" width="600" height="400" frameborder="0"></iframe>
 
 Let's connect and collaborate on interesting projects! Feel free to reach out for technical discussions or potential opportunities.
