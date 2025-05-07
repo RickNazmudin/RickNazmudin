@@ -25,10 +25,6 @@ Versatile full-stack developer with expertise in multiple programming languages 
 
 ###
 
-<img src="https://raw.githubusercontent.com/RickNazmudin/RickNazmudin/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RickNazmudin/RickNazmudin/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RickNazmudin/RickNazmudin/output/pacman-contribution-graph.svg">
@@ -36,5 +32,4 @@ Versatile full-stack developer with expertise in multiple programming languages 
 </picture>
 
 ###
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
