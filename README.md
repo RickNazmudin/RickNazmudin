@@ -26,6 +26,6 @@ Versatile full-stack developer with expertise in multiple programming languages 
 - Serverless computing with AWS Lambda
 
 ## 🎮 Play Pacman
-<iframe src="https://pacman.io/" width="600" height="400" frameborder="0"></iframe>
+![Pacman Game](https://upload.wikimedia.org/wikipedia/en/e/e0/Pac-Man.png)
 
 Let's connect and collaborate on interesting projects! Feel free to reach out for technical discussions or potential opportunities.
