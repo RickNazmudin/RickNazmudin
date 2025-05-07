@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ricko Nazmudin, a passionate Software Developer
+![RickoNazmudin](img/github-header-1.png)
 
 I'm a versatile full-stack developer with expertise in multiple programming languages and frameworks. My technical toolkit includes:
 
